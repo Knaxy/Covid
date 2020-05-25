@@ -1,0 +1,15 @@
+body{
+    padding: 5px;
+    background-color: #aaee;
+}
+
+#register{
+    background-color: rgb(152, 243, 152);
+    font-weight: bold;
+}
+
+#reset{
+    background-color:  rgb(245, 159, 159) ;
+    font-weight: bold;
+}
+
